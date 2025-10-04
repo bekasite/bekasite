@@ -1,30 +1,53 @@
 # Hi there, I'm Beka! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and **Flutter Expert** with a keen eye for design and a love for clean, efficient code. I enjoy turning ideas into beautiful, functional, and responsive applications.
-
+Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and Flutter Expert with expertise in building scalable, end-to-end web and mobile applications. I bridge the gap between beautiful frontends and robust backends.
 ---
 
 ## 🚀 About Me
 
-- 🌟 **Expertise**: Front-End Development, Flutter, UI/UX Design
+- 🌟 **Expertise**: Full-Stack Development, Flutter, Mobile & Web Applications
 - 💻 **Languages & Tools**: 
   - Front-End: HTML, CSS, JavaScript, TypeScript, React, Angular
+  - Backend: Node.js, Express, Python, REST APIs, Database Design
+  - Database: MongoDB, mySQL, Firebase
   - Mobile Development: Flutter, Dart
   - Others: Git, Figma, Adobe XD
 - 🎨 I love creating pixel-perfect designs and ensuring seamless user experiences.
 - 🌍 Based in: Ethiopia
-- 🌱 Currently learning: Advanced animations in Flutter and performance optimization techniques.
+- 🌱 Currently learning: Advanced backend architecture and cloud technologies
 
 ---
 
 ## 📈 GitHub Stats
 
-![Bekasite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekasite&show_icons=true&theme=radical)
+[![Bekasite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekasite&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=bekasite&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=bekasite&layout=compact&theme=radical)
 
 ---
+##🛠️ Technical Skills
+###Frontend Development
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+
+###Backend Development
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+
+###obile Development
+https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
 
 ## 📂 Featured Projects
+###🛒 [Chapa E-commerce](#)
+-**Description**: Full-stack e-commerce platform with Chapa payment integration
 
+-**Tech Stack**: Next.js, React, Node.js, Chapa API, MongoDB
+
+-**Features**: User authentication, product management, payment processing, order tracking
 ### 🎯 [EC VS GC](#)
 - **Description**: Ethiopian to Gregorian calender and viceversa convertor .
 - **Tech Stack**: Flutter, Dart, Java
@@ -39,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and **Flu
 
 ## 📬 Connect with Me
 
-- 🌐 Portfolio: [Bekasite](https://bekasite.netlify.app)
+- 🌐 Portfolio: [Bekasite](https://beka-temesgen.netlify.app)
 - 💼 LinkedIn: [Beka Temesgen](https://www.linkedin.com/in/beka-temesgen-214b59312)
 - 🐦 Twitter: [Bekasite](https://x.com/Beka6724)
 - 📧 Email: [My email](beka00499@gmail.com)
