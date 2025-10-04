@@ -53,10 +53,10 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and Flutter 
 
 ## 📂 Featured Projects
 
-### 🛒 [Chapa E-commerce](https://github.com/bekasite/chapa-ecommerce)
+### 🛒 [Chapa E-commerce](https://github.com/bekasite/ecommerce-chapa-integration)
 - **Description**: Full-stack e-commerce platform with Chapa payment integration
-- **Tech Stack**: Next.js, React, Node.js, Chapa API, MongoDB
-- **Features**: User authentication, product management, payment processing, order tracking
+- **Tech Stack**: Next.js, React, axios, Chapa API
+- **Features**: product management, payment processing
 
 ### 🎯 [EC VS GC](#)
 - **Description**: Ethiopian to Gregorian calender and viceversa convertor .
