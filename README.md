@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and Flutter 
 - 🌱 Currently learning: Advanced backend architecture and cloud technologies
 
 ---
-
 ## 📈 GitHub Stats
 
-[![Bekasite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekasite&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=bekasite&show_icons=true&theme=radical
-https://github-readme-stats.vercel.app/api/top-langs/?username=bekasite&layout=compact&theme=radical)
+![Bekasite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekasite&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekasite&layout=compact&theme=radical)
 
 ---
 
