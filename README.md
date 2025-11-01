@@ -73,21 +73,12 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and Flutter 
 ## 📬 Connect with Me
 
 - 🌐 Portfolio: [Bekasite](https://beka-temesgen.netlify.app)
-- 💼 LinkedIn: [Beka Temesgen](https://www.linkedin.com/in/beka-temesgen-214b59312)
-- 🐦 Twitter: [Bekasite](https://x.com/Beka6724)
-- 📧 Email: [My email](beka00499@gmail.com)
 
 ---
 
 ## 🛠️ Open to Collaboration
 
 I'm always open to contributing to exciting projects or collaborating on innovative ideas. Feel free to reach out if you have something in mind!
-
----
-
-### 🌟 Fun Fact
-
-When I'm not coding, I'm probably exploring the latest design trends, playing video games, or experimenting with new recipes in the kitchen.
 
 ---
 
